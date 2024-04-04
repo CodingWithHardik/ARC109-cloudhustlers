@@ -1,0 +1,21 @@
+{
+    "name": "cloudhustlers",
+    "version": "0.0.1",
+    "description": "Subscribe to CloudHustlers",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "cloudhustlers",
+      "cloud",
+      "google",
+      "qwiklabs"
+    ],
+    "author": "CloudHustlers",
+    "license": "ISC",
+    "dependencies": {
+        "@google-cloud/pubsub": "^3.4.1"
+    }
+}
+  
